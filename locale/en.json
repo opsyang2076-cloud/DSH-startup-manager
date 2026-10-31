@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Startup Manager",
+    "description": "View and manage all Windows auto-start entries (registry Run keys, Startup folders, scheduled tasks, services), flag newly installed ones, and toggle them like Task Manager."
+  }
+}
